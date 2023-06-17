@@ -1,0 +1,49 @@
+<!--
+  ~ Copyright (c) 2021 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">BTS</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">BTS</string>
+    <string name="news_fragment_label">Sports News</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="news_title">News</string>
+    <string name="sports_info_placeholder">Here is Member BTS</string>
+    <string name="sports_news_detail_text">BTS (Hangul: 방탄소년단; Hanja: Bangtan Sonyeondan) atau Bangtan
+        Boys adalah grup vokal pria asal Korea Selatan. Grup ini beranggotakan tujuh
+        orang, antara lain RM, J-Hope, Suga, Jin, V, Jungkook, dan Jimin, yang dikelola
+        oleh Big Hit Music. Nama tersebut kemudian berakronim menjadi Beyond The Scene
+        pada Juli 2017. Pada 12 Juni 2013, mereka membawakan lagu berjudul No More Dream
+        dari album awal mereka 2 Cool 4 Skool yang mendukung debut mereka pada 13 Juni 2013.</string>
+    />
+
+    <string name="kimnamjoon">Kim Namjoon</string>
+    <string name="kimseokjin">Kim Seok Jin</string>
+    <string name="minyoongi">Min Yoongi</string>
+    <string name="junghoseok">Jung Ho Seok</string>
+    <string name="parkjimin">Park Jimin</string>
+    <string name="kimtaehyung">Kim Seok Jin</string>
+    <string name="jeonjeongguk">Jeon Jeong Guk</string>
+
+    <string name="kimnamjoon_subtitle">Here is member BTS!</string>
+    <string name="kimseokjin_subtitle">Here is member BTS!</string>
+    <string name="minyoongi_subtitle">Here is member BTS!</string>
+    <string name="junghoseok_subtitle">Here is member BTS!</string>
+    <string name="parkjimin_subtitle">Here is member BTS!</string>
+    <string name="kimtaehyung_subtitle">Here is member BTS!</string>
+    <string name="jeonjeongguk_subtitle">Here is member BTS!</string>
+</resources>

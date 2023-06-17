@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    android:background="@color/black"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/article_heading"
+        android:textColor="@color/white"
+        android:padding="8dp"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:text="Entah Jodoh Siapa"/>
+
+    <TextView
+        android:id="@+id/article_subheading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/article_heading"
+        android:layout_marginTop="3dp"
+        android:padding="10dp"
+        android:text="Yoks Hihi :)"
+        android:textAlignment="center"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault"
+        android:textColor="@color/white" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="193dp"
+        android:layout_height="326dp"
+        android:layout_below="@+id/article_heading"
+        android:layout_marginTop="57dp"
+        android:clickable="true"
+        android:onClick="onImageClick"
+        android:src="@drawable/image1" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="171dp"
+        android:layout_height="287dp"
+        android:layout_below="@+id/article_heading"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="74dp"
+        android:layout_marginBottom="323dp"
+        android:layout_toEndOf="@+id/imageView1"
+        android:clickable="true"
+        android:onClick="onImageClick"
+        android:src="@drawable/image2" />
+
+</RelativeLayout>
