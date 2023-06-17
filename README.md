@@ -4,7 +4,7 @@ Faiqotul Mahmudah 105219021 - Tugas Individu
 # HASIL PROJEK DI BRANCH MASTER
 
 # PPB 1.2 - 1.3
-<img src="(https://github.com/Faiky12/PPB_105219021/assets/95459673/31db1195-a7f9-4a2e-80ca-be8eef784274.png" width=30% height=30%>
+<img src="https://github.com/Faiky12/PPB_105219021/assets/95459673/31db1195-a7f9-4a2e-80ca-be8eef784274.png" width=30% height=30%>
 <img src="https://github.com/Faiky12/PPB_105219021/assets/95459673/bfa71583-f247-4e36-b438-b2ee836b62bc.png" width=30% height=30%>
 <img src="https://github.com/Faiky12/PPB_105219021/assets/95459673/cd7635a3-169a-4ccc-8b0e-d2de08a7927.png" width=30% height=30%>
 
