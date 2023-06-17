@@ -6,11 +6,11 @@ Faiqotul Mahmudah 105219021 - Tugas Individu
 # PPB 1.2 - 1.3
 <img src="https://github.com/Faiky12/PPB_105219021/assets/95459673/31db1195-a7f9-4a2e-80ca-be8eef784274.png" width=30% height=30%>
 <img src="https://github.com/Faiky12/PPB_105219021/assets/95459673/bfa71583-f247-4e36-b438-b2ee836b62bc.png" width=30% height=30%>
-<img src="https://github.com/Faiky12/PPB_105219021/assets/95459673/cd7635a3-169a-4ccc-8b0e-d2de08a7927.png" width=30% height=30%>
+<img src="https://github.com/Faiky12/PPB_105219021/assets/95459673/0ef1389e-028b-4903-b402-7a318ec741fe.png" width=30% height=30%>
 
 # PPB 2.1
-<img src="https://github.com/Faiky12/PPB_105219021/assets/95459673/e652ce06-0694-43b6-b76e-7eea85f8a56f.png" width=30% height=30%>
 <img src="https://github.com/Faiky12/PPB_105219021/assets/95459673/74b278a6-777f-4e0c-b9e1-1c716c677f2d.png" width=30% height=30%>
+<img src="https://github.com/Faiky12/PPB_105219021/assets/95459673/e652ce06-0694-43b6-b76e-7eea85f8a56f.png" width=30% height=30%>
 
 # PPB 2.2
 <img src="https://github.com/Faiky12/PPB_105219021/assets/95459673/3a4703a4-a840-4134-bb35-4e76da12fe8c.png" width=30% height=30%>
